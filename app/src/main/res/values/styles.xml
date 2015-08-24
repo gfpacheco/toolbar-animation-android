@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="transparent">#00000000</color>
+
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+</resources>
